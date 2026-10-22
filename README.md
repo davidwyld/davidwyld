@@ -6,6 +6,7 @@
 - Enhancing research practice through training and collaboration
 
 #### On the internet
-- :busts_in_silhouette: [Software Sustainability Institute](https://software.ac.uk/about/fellows/david-wilby)
+- 🇦🇶 [British Antarctic Survey](https://www.bas.ac.uk/profile/dalby/)
+- :busts_in_silhouette: [Institute for Research Software](https://software.ac.uk/about/fellows/david-wyld)
 - :open_book: [Google Scholar](http://bit.ly/wilbyScholar)
 - :mammoth: <a rel="me" href="https://mastodon.green/@davidwyld">Mastodon</a>
